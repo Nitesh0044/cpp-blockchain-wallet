@@ -50,4 +50,3 @@
 ### 📝 Daily Progress Log
 * *Feb 5, 2026:* Completed *Lecture 4*. Implemented nested loop logic for block validation patterns.
 * *Feb 4, 2026:* Initialized repository. Set up the development environment with *Qt Creator* and *C++20*.
-*
